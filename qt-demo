@@ -1,0 +1,8 @@
+#!/usr/bin/python3
+"""Command line command for launching demo app."""
+
+# Local imports:
+from src import application
+
+if __name__ == '__main__':
+    application.launch()
